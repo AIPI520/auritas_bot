@@ -1,4 +1,4 @@
-# legal_assistant
+# Auritas Assistant
 
 ### General 
 I built a classic RAG system (with only the embedding and LLM as API sources) to provide a Question and Answer experience for users. 
